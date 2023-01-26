@@ -15,13 +15,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HRyohni&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@HRyohni12)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-
-[![](https://visitcount.itsvg.in/api?id=HRyohni&icon=4&color=3)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
+ ### 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/matosevic.leo@gmail.com) 
 
   
